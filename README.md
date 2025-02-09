@@ -3,6 +3,8 @@
 This respository serves to purpose to display some of the work that was completed in my reserch lab while studying abroad.
 The end result is being able to recreate a 3D environment by using IOS logger. Then that recreation can then be plugged into Unity to create an interactable environment.
 
+![Lab Recreation](https://github.com/jwbarkes/ARLab/blob/main/model.png)
+
 ## Steps used to create the 3D environment:
 1) Download [IOS_logger](https://github.com/Varvrar/ios_logger) onto phone.
 2) Take video of surrounding area making sure to get around objects and multiple angles for max precision.
