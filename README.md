@@ -7,6 +7,12 @@ The end result is being able to recreate a 3D environment by using IOS logger. T
     <img width="50%" src="https://github.com/jwbarkes/ARLab/blob/main/model.png">
 </p>
 
+The headset used was made by Jorjin Technologies Inc. and is their J-Reality model of headset.
+
+<p align="center">
+    <img width="50%" src=https://github.com/jwbarkes/ARLab/main/JorjinHeadset.png">
+</p>
+
 ## Steps used to create the 3D environment:
 1) Download [IOS_logger](https://github.com/Varvrar/ios_logger) onto phone.
 2) Take video of surrounding area making sure to get around objects and multiple angles for max precision.
