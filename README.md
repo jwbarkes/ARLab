@@ -10,7 +10,7 @@ The end result is being able to recreate a 3D environment by using IOS logger. T
 The headset used was made by Jorjin Technologies Inc. and is their J-Reality model of headset.
 
 <p align="center">
-    <img width="50%" src=https://github.com/jwbarkes/ARLab/main/JorjinHeadset.png">
+    <img width="50%" src="https://github.com/jwbarkes/ARLab/blob/main/JorjinHeadset.png">
 </p>
 
 ## Steps used to create the 3D environment:
